@@ -6,6 +6,7 @@ package com.itheima.domain;
  * @description:
  **/
 public class User {
+    private  String username;
 
 
 }
