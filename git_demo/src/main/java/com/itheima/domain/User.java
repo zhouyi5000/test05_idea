@@ -8,6 +8,7 @@ package com.itheima.domain;
 public class User {
     private  String username;
     private  String address;
+    private  Integer id;
 
 
 }
